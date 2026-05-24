@@ -71,7 +71,7 @@ graph LR
 
 ```python
 # Clone and install
-!git clone https://github.com/username/RevertIQ.git
+!git clone https://github.com/elvishpatel/RevertIQ.git
 %cd RevertIQ
 !pip install -e .
 
@@ -102,7 +102,7 @@ print(result.metrics)
 ### Option 2: Local Installation
 
 ```bash
-git clone https://github.com/username/RevertIQ.git
+git clone https://github.com/elvishpatel/RevertIQ.git
 cd RevertIQ
 pip install -e .
 ```
