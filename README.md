@@ -4,7 +4,7 @@
 
 ### Cross-Sectional Mean Reversion Quant Research Platform
 
-*Institutional-grade quantitative research for Indian equity markets — built with free tools.*
+*Institutional-grade quantitative research for Indian equity markets.*
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
